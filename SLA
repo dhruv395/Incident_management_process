@@ -9,11 +9,11 @@ Issue severity:
 the degree of impact the issue has on the application in use.
 
 severity		description			      initial 		  resolution											   response time
-P1			issue causes critical 	  1 hr			  	24 hr
-			  loss of business
-P2		  major impact to business  4 hrs			    72 hrs
-P3		  minnor impact				      24 hrs		  	120hrs
-P4										            48 hrs		  	168
+P1			issue causes critical 	  		e.g; 1/2 hr	e.g; 12 hr
+			loss of business
+P2		 	major impact to business  		e.g; 3 hrs	e.g; 48 hrs
+P3		  	minnor impact				e.g; 12 hrs	e.g; 72 hrs
+P4								e.g; 24 hrs	e.g; 120 hrs
 
 
 Priority:
